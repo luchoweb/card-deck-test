@@ -65,11 +65,3 @@ Use the following URL parameters to determine which cards should be drawn.  You 
 
 If you're still thirsty for more:
 'sorted' should sort the drawn cards: grouped by suit and ordered by rank.  Ordering may be either asc or desc.
-  
-
-## Instructions
-
-- Fork this repo to a private repo in your own GitHub account.
-- Complete the challenge.
-- Push your solution to your private repo.
-- Share your repo with @thisanimus and @robmomary.
